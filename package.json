@@ -1,0 +1,26 @@
+{
+  "name": "win98.css",
+  "version": "1.0.0",
+  "description": "Windows 98 FTW",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lauhau/win98.css.git"
+  },
+  "author": "lauhau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lauhau/win98.css/issues"
+  },
+  "homepage": "https://github.com/lauhau/win98.css#readme",
+  "devDependencies": {
+    "babel-core": "^6.14.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.14.0",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.15.0"
+  }
+}
